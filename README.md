@@ -22,10 +22,11 @@
 - Show all articles of all user.
   
 ### 2. Follow section ###
-![image](https://github.com/user-attachments/assets/366bc160-65f0-4df4-b145-1885f7d60556) * Draw menu
+![image](https://github.com/user-attachments/assets/366bc160-65f0-4df4-b145-1885f7d60556)\
+* Draw menu
 ![image](https://github.com/user-attachments/assets/55b64e81-84c5-4ca1-a32f-8337c7766e2c)
 - Select the follow item from the draw menu.
-- Displays a list of the users you follow.\
+- Displays a list of the users you follow.
 
 ### 3. Board section ###
 ![image](https://github.com/user-attachments/assets/ec5d06f5-cdb7-4130-be87-a64cb5f3bf6f)
@@ -48,7 +49,7 @@
 - Access the profile entry.
 - Touch the "change passwd" button.
 
-* Sign up process
+/*/ Sign up process
 ![image](https://github.com/user-attachments/assets/3fb9f017-f5f4-403e-9916-85d5fd2cae17)
 
 
