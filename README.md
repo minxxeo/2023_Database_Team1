@@ -19,7 +19,7 @@
 ### 1. Feed section ###
 ![image](https://github.com/user-attachments/assets/5a23e120-c76a-4840-b27f-176d01240d2d)\
 - The main screen of the application.
-- Show all articles of all user\
+- Show all articles of all user.
   
 ### 2. Follow section ###
 ![image](https://github.com/user-attachments/assets/366bc160-65f0-4df4-b145-1885f7d60556) * Draw menu
