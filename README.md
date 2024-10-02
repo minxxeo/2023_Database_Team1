@@ -23,7 +23,7 @@
   
 ### 2. Follow section ###
 ![image](https://github.com/user-attachments/assets/366bc160-65f0-4df4-b145-1885f7d60556)
-* Draw menu/
+↑ Draw menu
 ![image](https://github.com/user-attachments/assets/55b64e81-84c5-4ca1-a32f-8337c7766e2c)
 - Select the follow item from the draw menu.
 - Displays a list of the users you follow.
