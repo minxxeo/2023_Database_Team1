@@ -1,7 +1,7 @@
 # 2023_Database_Team1_Twitter
 
 ## DB schema ##
-![image](https://github.com/user-attachments/assets/98f6d0a8-22b9-4f97-9236-8309747f216a)\
+![image](https://github.com/user-attachments/assets/98f6d0a8-22b9-4f97-9236-8309747f216a)
 
 
 ## Twitter GUI Design ##
